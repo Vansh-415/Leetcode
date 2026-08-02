@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Vansh-415/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vansh-415/Leetcode/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/Vansh-415/Leetcode/tree/master/0231-power-of-two) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Vansh-415/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vansh-415/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vansh-415/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vansh-415/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Vansh-415/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Trie
 |  |
 | ------- |
