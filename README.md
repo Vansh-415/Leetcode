@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Vansh-415/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vansh-415/Leetcode/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/Vansh-415/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Vansh-415/Leetcode/tree/master/0326-power-of-three) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vansh-415/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## String
 |  |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Vansh-415/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Vansh-415/Leetcode/tree/master/0326-power-of-three) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
