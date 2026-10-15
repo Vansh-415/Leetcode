@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vansh-415/Leetcode/tree/master/0242-valid-anagram) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vansh-415/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vansh-415/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vansh-415/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vansh-415/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vansh-415/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vansh-415/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vansh-415/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vansh-415/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Trie
 |  |
@@ -240,4 +242,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vansh-415/Leetcode/tree/master/0011-container-with-most-water) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vansh-415/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vansh-415/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
