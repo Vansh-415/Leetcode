@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Vansh-415/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Vansh-415/Leetcode/tree/master/0217-contains-duplicate) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vansh-415/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0643-maximum-average-subarray-i](https://github.com/Vansh-415/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vansh-415/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vansh-415/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vansh-415/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -250,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vansh-415/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Vansh-415/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
